@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MovieDatabase</string>
+    <string name="genre">Жанр</string>
+    <string name="movie_name">Название фильма</string>
+    <string name="release_year">Год выхода</string>
+    <string name="release_date">Дата выхода</string>
+    <string name="rating">Рейтинг</string>
+    <string name="all">Все</string>
+    <string name="description">Описание</string>
+    <string name="error">Error</string>
+    <string name="reload">Reload</string>
+    <string name="history">История</string>
+    <string name="contacts">Контакты</string>
+    <string name="settings">Настройки</string>
+    <string name="language_ru">ru</string>
+
+    <string name="title_home">Домой</string>
+    <string name="title_favorite">Избранное</string>
+    <string name="title_search">Поиск</string>
+    <string name="title_account">Аккаунт</string>
+    <string name="rating_r_off">Взрослый контент выключен</string>
+    <string name="rating_r_on">Взрослый контент включен</string>
+    <string name="poster_description">Постер фильма</string>
+    <string name="favorite_description">Избранное</string>
+</resources>
